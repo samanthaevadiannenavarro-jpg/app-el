@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Elaya Flower Blossom Icon -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,28 C50,38 44,46 36,48 C46,50 50,58 54,68 C58,58 62,50 72,48 C64,46 58,38 54,28 Z" />
+    <path
+        android:fillColor="#FFFFD1DC"
+        android:pathData="M54,34 C51,41 47,47 41,48 C47,50 51,55 54,62 C57,55 61,50 67,48 C61,47 57,41 54,34 Z" />
+    <path
+        android:fillColor="#FFFF5277"
+        android:pathData="M54,44 a4,4 0 1,0 0.001,0 Z" />
+    <!-- Stem and leaves -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,68 L54,82" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,74 C48,72 44,76 46,80 C50,80 53,77 54,74 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,72 C60,70 64,74 62,78 C58,78 55,75 54,72 Z" />
+</vector>
